@@ -34,6 +34,8 @@ Some Keys function differently wheter the focus is on table or on console.
 
 ```matlab
 [Cl*2]
+```
+```matlab
 [Al [O H]*3]
 ```
 3. Charges are indicated using `^`.
