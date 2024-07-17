@@ -7,20 +7,20 @@ you can play with it [here](https://chembalance.pages.dev).
 
 ## Help & Shortcuts
 
-|Shortcut	|Description				 |
-|:-------------:|----------------------------------------|
-|⇧ + 0		|Clear all elements (AC)		 |
-|⇧ + 1		|Compute the balanced equation		 |
-|⇧ + 2		|Copy the balanced equation to clipboard |
-|↑ or ↓		|Move a selected element vertically	 |
+|Shortcut	|Description				 	|
+|:-------------:|-----------------------------------------------|
+|⇧ + 0		|Clear all elements (AC)		 	|
+|⇧ + 1		|Compute coefficients to balance the equation	|
+|⇧ + 2		|Copy the balanced equation to clipboard 	|
+|↑ or ↓		|Select the upper/lower element			|
 
 
 Some Keys function differently wheter the focus is on table or on console.
 
-|key		|Table			    |Console				|
-|:-------------:|---------------------------|-----------------------------------|
-|Enter		|Add selected element	    |Compute balanced equation	 	|
-|← or →		|Move element left or right |Move cursor left or right		|
+|key		|Table			     |Console				|
+|:-------------:|----------------------------|----------------------------------|
+|Enter		|Add selected element	     |balance the equation	 	|
+|← or →		|Select previous/next element|Move cursor to left/right		|
 
 
 ## Chemical Equation Formatting:
