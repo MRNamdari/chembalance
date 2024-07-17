@@ -27,7 +27,7 @@ const readme = `
     eg: [H*2]+1*[O*2]⇒[H*2 O]
     
               WITH / TO MY SISTER (THE ELDEST ONE)
-                        !: MRNamdari
+                   ! MRNamdari\\chembalance
     `;
 
 export default readme;
