@@ -4,7 +4,8 @@
   "description": "offline chemical equation balancer",
   "main": "dist/index.html",
   "scripts": {
-    "test": "bun build ./src/index.ts --sourcemap=inline --target=browser --outdir ./dist/ --watch "
+    "test": "bun build ./src/index.ts --sourcemap=inline --target=browser --outdir ./dist/ --watch ",
+    "build": "bun build ./src/index.ts --target=browser --outdir ./dist/ --minify"
   },
   "author": "mo.re.nam",
   "license": "ISC",
